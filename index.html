@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="images/weather-icon.png" type="images/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Weather App</title>
+</head>
+<body>
+    <div class="box">
+        <div class="search">
+            <div>
+                <i class="fa fa-map-marker" aria-hidden="true"></i>
+                <input type="search" class="city" name="city" id="city" placeholder="Enter Your Location">
+            </div>
+            <button for="city"><i class="fa fa-search" aria-hidden="true"></i>
+            </button>
+
+        </div>
+        <div class="container">
+            <div class="weather">
+                <img id="icon" src="images/cloud.png" alt="" />
+                <h1 id="temp" class="temp">22°c</h1>
+                <h2 class="name">New Delhi</h2>
+            </div>
+
+            <div class="temp2">
+                <div>
+                    <h1 class="mintemp">18°c</h1>
+                    <h4>Min Temp</h4>
+                </div>
+
+                <div>
+                    <h1 class="maxtemp">24°c</h1>
+                    <h4>Max Temp</h4>
+                </div>
+            </div>
+            <div class="detail">
+
+                <div class="col">
+                    <img src="images/humidity.png" alt="">
+                </div>
+                <div>
+                    <h1 class="humidity">50%</h1>
+                    <h4>Humidity</h4>
+
+                </div>
+                <div class="col">
+                    <img src="images/wind.png" alt="">
+                </div>
+                <div>
+                    <h1 class="wind">5 Km/h</h1>
+                    <h4>Wind Speed</h4>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+
+<script src="script.js"></script>
+</html>
