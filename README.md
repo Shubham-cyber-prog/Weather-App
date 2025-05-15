@@ -2,7 +2,7 @@
 
 A sleek, responsive Weather App that shows real-time weather updates for any city using the **OpenWeatherMap API**. Built using **HTML**, **CSS**, and **JavaScript**.
 
-![Weather App Screenshot](./screenshot.png) <!-- Replace with your actual image file if needed -->
+![Weather App Screenshot]( Screenshot 2025-05-15 085406.png)
 
 ---
 
