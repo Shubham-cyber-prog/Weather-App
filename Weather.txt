@@ -1,0 +1,27 @@
+🌦️ Weather App Project - Contributor Notes
+
+🔸 Description:
+This file contains contributor updates and project change logs for the Weather App.
+
+🔸 Update by: @subhamnayak343
+🔸 Date: [Add today's date]
+
+🔸 What I did:
+- Cloned the original repository
+- Set up the development environment
+- Added improvements/fixes/features [mention below]
+
+🔸 Features Added / Bug Fixed:
+- [ ] UI responsiveness improved
+- [ ] API error handling added
+- [ ] Loading animation added while fetching weather
+- [ ] Dark mode support
+- [ ] Fixed Celsius/Fahrenheit toggle
+
+🔸 Next Steps / To Do:
+- [ ] Add 5-day forecast support
+- [ ] Improve search suggestions
+- [ ] Add unit tests for API fetch
+- [ ] Create a deployable version (GitHub Pages / Vercel)
+
+Keep collaborating! 💻🚀
